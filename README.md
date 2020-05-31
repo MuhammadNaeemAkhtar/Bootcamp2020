@@ -24,7 +24,7 @@ https://help.github.com/en/actions/configuring-and-managing-workflows/configurin
 
 8. Created surge deployment action file in root of my repo in .github/workflow directory
 
-9. Changed <div> tag to <h1> in index.html, commited it and pushed it again to github.com
+9. Changed div tag to h1 in index.html, commited it and pushed it again to github.com
 
 10. Checked the actions tab on GitHub website and analysed the actions executed
 
