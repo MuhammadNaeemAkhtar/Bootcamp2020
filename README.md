@@ -32,4 +32,6 @@ https://help.github.com/en/actions/configuring-and-managing-workflows/configurin
 http://bootcamp2020_class1_mna.surge.sh/
 
 12. Submited my github repo URL in the issues of following:
-https://github.com/panacloud/Bootcamp-Setup/issues
+https://github.com/panacloud/Bootcamp-Setup/issues/104
+https://github.com/zeeshanhanif/bootcamp2020/issues/263
+https://github.com/MuhammadMohsin/Bootcamp2020Sample/issues/29
